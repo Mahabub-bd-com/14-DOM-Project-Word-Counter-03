@@ -1,0 +1,4 @@
+JS DOM Word Counter
+https://www.javascripttutorial.net/javascript-dom/javascript-word-counter/
+
+
